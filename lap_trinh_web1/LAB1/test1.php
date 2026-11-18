@@ -13,10 +13,19 @@
 // echo "so dien thoai la ", $sdt;
 // echo "ngay sinh la : ", $ns
 //c
-define("HOST", "localhost");
-define("DATABASE", "QL_sinhvien");
-define("USERNAME", "root");
-define("PASSEORD", "");
-echo HOST
-
+// define("HOST", "localhost");
+// define("DATABASE", "QL_sinhvien");
+// define("USERNAME", "root");
+// define("PASSEORD", "");
+// echo HOST
+//d
+//day nhay don 
+$ten = "Duy";
+echo "Ten: $ten<br>";
+//nhay don 
+echo 'Ten: $ten';
+// single - line
+/*
+multi_line
+*/
 ?>
